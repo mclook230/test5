@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="update_synch=true" extends="sys_metadata" label="T2" max_length="40" name="x_snc_tint34439662_t2" type="collection">
+        <element label="C1" max_length="40" name="c1" type="string"/>
+        <element label="C2" max_length="40" name="c2" type="string"/>
+    </element>
+</database>
